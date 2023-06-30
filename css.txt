@@ -1,0 +1,2 @@
+En esta parte del desafio lo que se hizo fue hacer un "stash" del archivo en el cual se estaba trabajando en esta rama para poder cambiar a la rama master. 
+Se borro el archivo status.js
