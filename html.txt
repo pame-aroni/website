@@ -1,0 +1,1 @@
+HTML es un editor de codigo que se maneja mediante etiquetas o "tags"

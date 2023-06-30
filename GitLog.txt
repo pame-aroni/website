@@ -1,8 +1,0 @@
-Git Log día 22/06
-
-commit fd33f0f5413978442a1f7ce07877f0f6cdaa45d8 (HEAD -> desafio1, DesafiosGit/desafio1)
-Author: pame-aroni <pame.aroni@gmail.com>
-Date:   Thu Jun 22 00:18:50 2023 -0300
-
-    Add README file
-
